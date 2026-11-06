@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=WhiteSur
-Comment=MacOSX style icon theme for linux.
+Comment=macOS Golden Gate icon theme for KDE Plasma 6.
 Inherits=breeze,breeze-dark,hicolor
 Example=folder
 
